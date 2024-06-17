@@ -6,10 +6,6 @@ Created by Shubhada Martha
   <img src="https://github.com/smartha2003/ECS189E/assets/103222835/767993b6-db3a-4515-9c86-ffbdb169ba95" width="300">
 </p>
 
-<p align="center">
-  <img src="https://github.com/smartha2003/ECS189E/assets/103222835/f05da2f8-15b8-4210-8fe2-ecdca32360a1" width="200">
-</p>
-
 FroggyVault is a mobile transaction app in SwiftUI, which can be used in place of physical card transactions!
 
 ## App Features
